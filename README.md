@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bolaji-Motayo
+- 👋 Hi, I’m @Bolaji-Motayo, A Pharmacist in love with Tech.
+- I am a Software Developer at #100Devs.
 - 👀 I’m interested in various tech stacks
 - 🌱 I’m currently learning machine learning with python, OOP and perfecting UI/UX
 - 💞️ I’m looking to collaborate on fullstack coding using HTML, CSS, JAVASCRIPT, REACTJS, NodeJs, etc
